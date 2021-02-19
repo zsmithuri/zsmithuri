@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML: Images</title>
+    </head>
+    <body>
+    <img src="csc106_banner.jpg">
+    <h1>About Me</h1>
+    
+    <h3></h3>
+    
+    <ul>Im a URI student, im a undecided on my major, im 19, I like food, I like drawing</ul>
+    
+    <h3></h3>
+    
+    <ol>
+       
+    </ol>
+    
+    <h2></h2>
+    
+    <p></p>
+    
+    <h2></h2>
+    
+    <p></p>
+
+    </body>
+</html>
+
